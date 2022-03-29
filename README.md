@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Piyush Jha
 - 🔭 I’m currently working as **Full Stack Developer - Javascript**
-- 🔭 I’m primarilyrew working on **MERN STACK**
+- 🔭 I’m primarily working on **MERN STACK**
 - 🌱 I’m currently learning **NodeJS**, **React**, **Express**, **MongoDB**
 
 ## Languages & Frameworks
