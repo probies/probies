@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 - 👋 Hi, I’m Piyush Jha
-- 🔭 I’m currently working as **Full Stack Developer - Javascript**
+- 🔭 I’m currently working as **Softwate Developer - Full Stack**
 - 🔭 I’m primarily working on **MERN STACK**
 - 🌱 I’m currently learning **NodeJS**, **React**, **Express**, **MongoDB**
 
