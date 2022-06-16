@@ -7,7 +7,7 @@
 
 ## Languages & Frameworks
 
-- Languages : JavaScript, Python, C
+- Languages : JavaScript, TypeScript, Python, C
 - Frameworks : NextJS, ExpressJS, Bootstrap, Tailwind CSS
 - Database : MongoDB
 - Tech Stack : MERN
